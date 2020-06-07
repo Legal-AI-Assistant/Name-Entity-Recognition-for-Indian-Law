@@ -1,8 +1,8 @@
 # Name Entity Recognition for Indian Legal System
 
-The solution is trained using large dataset of Judgments from Supreme Court of India and various High Court to extract named entities and their relatioship.
+The solution is trained using large dataset of Judgments from Supreme Court of India and various High Court to extract named entities and their relationship.
 
-The solution uses Natural Language Processing Technique called Name Entity Recognition to extract Name Entities and has been trained on a Large Datasets.
+The solution uses Natural Language Processing Technique called Name Entity Recognition to extract Name Entities and has been trained on a large datasets.
 
 The solution can be invoked using an API at a marginal cost. 
 
