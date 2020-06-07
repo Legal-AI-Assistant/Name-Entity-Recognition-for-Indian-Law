@@ -27,7 +27,7 @@ The solution can be invoked using an API at a marginal cost.
 14. Rule
 15. Order
 16. Citation
-17.Writ Petition
+17. Writ Petition
 
 
 Expected Input: Judgment in PDF Format (Supports both Machine Readable and Images)
