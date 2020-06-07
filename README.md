@@ -2,7 +2,10 @@
 
 The solution is trained using large dataset of Judgments from Supreme Court of India and various High Court to extract named entities and their relationship.
 
-The solution uses Natural Language Processing Technique called Name Entity Recognition to extract Name Entities and has been trained on a large datasets.
+The solution uses Natural Language Processing Technique called Name Entity Recognition to extract Name Entities and has been trained on a large datasets. 
+
+The solution can be used to find related Judgements, Acts, Articles, Order, Citiation and Rules and also support Natural Language Query to search across a huge database of Indian Legal Documents. 
+
 
 The solution can be invoked using an API at a marginal cost. 
 
@@ -15,7 +18,7 @@ The solution can be invoked using an API at a marginal cost.
 5. Appellant
 6. Respondent
 7. Appeal Number
-8 Special Leave Petition
+8. Special Leave Petition
 9. Public Witness
 10. Statue
 11. Sections
@@ -24,6 +27,7 @@ The solution can be invoked using an API at a marginal cost.
 14. Rule
 15. Order
 16. Citation
+17.Writ Petition
 
 
 Expected Input: Judgment in PDF Format (Supports both Machine Readable and Images)
